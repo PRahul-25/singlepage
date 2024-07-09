@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(0, 255, 136);
+}
+h1{
+    text-align : center;
+    background-color: rgb(255, 51, 0);
+    border-radius: 50px;
+    width: 500px;
+    /*Margin */
+    margin:auto;
+    margin-top: 25px;
+}
+h3{
+  text-align: center;
+}
+img{
+  /* 1.border */
+  border: 2px solid black;
+  /* border */
+  border-radius: 25px;
+  width: 300px;
+  height: 250px;
+  margin-top: 30px;
+  margin: 70px;
+  margin-top: 120px;
+}
+a{
+  align-items: center;
+}
